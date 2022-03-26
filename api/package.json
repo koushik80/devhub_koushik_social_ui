@@ -32,7 +32,7 @@
     "node": "14.x"
   },
   "functions": {
-    "api/index.js": {
+    "api/*.js": {
       "memory": 3008,
       "maxDuration": 30
     }
