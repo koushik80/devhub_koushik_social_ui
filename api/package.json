@@ -30,5 +30,11 @@
   
   "engines": {
     "node": "14.x"
-  }
+  },
+  "functions": {
+    "api/index.js": {
+      "memory": 3008,
+      "maxDuration": 30
+    }
+}
 }
